@@ -4,7 +4,7 @@
 </a>
 <h2 tabindex="-1" class="heading-element" dir="auto"><em>About Me</em></h2>
 <p dir="auto"><strong>Name:</strong> Hero✌️ <br>
-      <strong>Loves:</strong> 📺 Anime, 🎮 Games, 📚 Books, 🏃‍♂️ Walking<br>
+      <strong>Loves:</strong> 📺 Anime, 🎮 Games, 🏃‍♂️ Walking<br>
 </div>
 
 
