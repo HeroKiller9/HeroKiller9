@@ -5,7 +5,7 @@
 <h2 tabindex="-1" class="heading-element" dir="auto"><em>About Me</em></h2>
 <p dir="auto"><strong>Name:</strong> Hero✌️ <br>
       <strong>Loves:</strong> 📺 Anime, 🎮 Games, 🏃‍♂️ Walking<br>
-      <img src="file:///C:/Users/moham/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/OnonokiMonogatariPoisedLookGIF.gif" width="300px" alt="Parade" style="max-width: 100%;">
+      <img src="https://i.pinimg.com/originals/3f/ce/3d/3fce3d3f35144558fdfa9179fab13199.gif" width="300px" alt="Parade" style="max-width: 100%;">
 </div>
 
 
